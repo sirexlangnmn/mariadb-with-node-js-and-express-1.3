@@ -1,0 +1,24 @@
+{
+    "name": "express-structure",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "nodemon ./bin/www"
+    },
+    "dependencies": {
+        "axios": "^0.23.0",
+        "cookie-parser": "^1.4.5",
+        "debug": "^4.3.2",
+        "express": "^4.17.1",
+        "faker": "^5.5.3",
+        "hbs": "^4.1.2",
+        "http-errors": "^1.8.0",
+        "lodash": "^4.17.21",
+        "morgan": "^1.10.0",
+        "sqlite3": "^5.0.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.3",
+        "prettier": "^2.0.5"
+    }
+}

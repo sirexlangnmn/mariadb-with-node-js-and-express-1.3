@@ -1,0 +1,33 @@
+body {
+    padding: 17px 67px;
+    max-width: 800px;
+    font-family: monospace;
+}
+
+.logo {
+    font-size: 2em;
+}
+
+code {
+    color: #555;
+    text-transform: uppercase;
+    outline: 1px dashed #666;
+    padding: 4px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+table {
+    margin-top: 11px;
+    border-collapse: collapse;
+}
+table td, table th {
+    padding: 5px 9px;
+    border: 1px #aaa solid;
+}
+
+span.color {
+    text-shadow: 1px 1px #000;
+}
